@@ -1,2 +1,19 @@
 # reactjsapp
 basic to advanced reactjs app
+
+Following commands/steps were used to create basic folder structure of reactjsapp
+1) creat folder samproject
+2) create git repo "reactjsapp"
+3) open cmd in the folder samproject
+4) command -> git clone https://github.com/saumyasinghgithub/reactjsapp.git
+5) command -> type nul > .gitignore
+6) generate gitignore file content from generator and paste the code
+7) command -> npm -v
+8) command -> node -v
+9) command -> npm view react version
+10) command -> npx create-react-app .
+11) git add .
+12) git pull
+13) git commit -m ""
+14) git push
+15) npm start
